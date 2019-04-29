@@ -109,6 +109,7 @@ header {
     @media(max-width: 814px) {
         nav {
             width: 100%;
+            padding-right: 0;
         }
     }
 
